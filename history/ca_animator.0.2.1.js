@@ -1,4 +1,3 @@
-//Version 0.2.1
 (function($){
 	$.ca_animator = function(pAnimations) {
 
